@@ -1,6 +1,6 @@
 # VRising Server Cloudflare
 
-Cloudflare infra for vrising server. Includes the game server DNS and dashboards
+Cloudflare infra for our V Rising server. Includes the game server DNS and dashboards.
 
 ## Cloudflare API Token Permissions
 
